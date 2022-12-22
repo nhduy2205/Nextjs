@@ -6,7 +6,7 @@
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
     "bootstrap": "^4.4.1",
-    "next": "^9.3.0",
+    "next": "^9.5.5",
     "next-sass": "^1.0.3",
     "node-sass": "^4.13.1",
     "react": "^16.13.0",
